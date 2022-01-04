@@ -48,25 +48,25 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-,!--
+<!--
 - [Now i’m a “web developer”](https://mohasinhaque23121.medium.com/now-im-a-web-developer-676cb192f42b)
 - [Journey of neoG Camp level zero](https://mohasinhaque23121.medium.com/journey-of-neog-camp-level-zero-fbd4d21b5f91)
 - -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://mohasinhaque23121.medium.com/)
+➡️<!-- [more blog posts...](https://mohasinhaque23121.medium.com/) -->
 
-<p align='center'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohasin-Haque&theme=radical" alt="AaquibAli Github Stats" />
+<p align='center'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=codingkush&theme=radical" alt="kush Github Stats" />
   </p> 
    <p align='center'>
-  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=Mohasin-Haque&count_private=true&theme=radical"/>
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=codingkush&count_private=true&theme=radical"/>
 </p>
   <p align='center'>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Mohasin-Haque&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"></p>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=codingkush&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"></p>
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Mohasin-Haque/count.svg" />
+  <img src="https://profile-counter.glitch.me/codingkush/count.svg" />
 </p>
  <div align="center">
   
